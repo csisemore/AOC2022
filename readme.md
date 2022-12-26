@@ -1,1 +1,1 @@
-My attempt at the 2022 Advent of Code (starting day 1 on 2022-12-20).
+My attempt at the 2022 Advent of Code. Actual coding began on 2022-12-26.
